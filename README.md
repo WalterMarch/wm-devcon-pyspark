@@ -21,5 +21,5 @@ git config --global user.email "yourEmail@mail.com"
 git config --global user.name "yourGitUserName"
 
 
-git config --global --add safe.directory /workspaces/wm-devcon-pyspark
+git config --global --add safe.directory $1
 ```
